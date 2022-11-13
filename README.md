@@ -1,2 +1,2 @@
-# MERN-Stack-Apps
-A Repo for my MERN Stack Applications
+# MERN-User-App
+First MERN Stack Application
