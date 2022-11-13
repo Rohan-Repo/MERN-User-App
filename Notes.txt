@@ -1,0 +1,12 @@
+"scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js" //This will Auto-Restart Server on Changes
+  }
+
+  Get different connection Strings for Compass and our Express Application from Atlas
+
+  Create Database and Collection in Compass
+
+  Get the Collection name & schema name for Creating Models
+  
+  Use ThunderClient or Postman to see the Get and Post Requests
