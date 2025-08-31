@@ -52,10 +52,6 @@ npm start
 
 Test API endpoints with tools like Postman or ThunderClient. Use the React front-end to interact with the server and manage users.
 
-## Contributing
-
-Contributions and improvements are welcome! Please open an issue or pull request for suggestions.
-
 ## License
 
 This project is open source and available for learning.
